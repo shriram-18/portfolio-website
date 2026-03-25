@@ -31,7 +31,7 @@ const seedData = async () => {
       email: 'patilshriram93@gmail.com',
       github: 'https://github.com/shriram-18',
       linkedin: 'https://linkedin.com/in/shriram-patil-87a414377',
-      resumeLink: './assets/Shriram_Patil_Resume.pdf',
+      resumeLink: './assets/resume.pdf',
       location: 'Pune, Maharashtra, India',
       tagline: 'Building scalable backend systems and learning full-stack development.'
     };
